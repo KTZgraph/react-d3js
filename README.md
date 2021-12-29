@@ -68,3 +68,12 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# tutorial
+https://www.youtube.com/watch?v=AhD-oziq53w
+    1. Know the widt, height and the margin of the svg
+    2. Know the range of your data
+    3. Know which value sets x and witch sets y
+    4. Properly append the right group ad/or shape
+    5. Properly assign atributes
